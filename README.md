@@ -9,7 +9,7 @@ P.S: maybe you don't find much on my profile because I don't have any idea to ma
 
 **I also use C++, Kotlin, & Dart, but not as good as the technology I mentioned above.*
 ***
-<a href="https://www.linkedin.com/in/yushi95/"><img align="center" src="https://raw.githubusercontent.com/craftalpian/craftalpian/main/linkedin.svg" alt="LinkedIn" width="25px"/></a>
+<a href="https://www.linkedin.com/in/alfian-ananda-putra/"><img align="center" src="https://raw.githubusercontent.com/craftalpian/craftalpian/main/linkedin.svg" alt="LinkedIn" width="25px"/></a>
 
 <!--
 **craftalpian/craftalpian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
