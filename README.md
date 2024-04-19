@@ -3,6 +3,7 @@ Hi, I'm Alfian. I am a developer, especially in the back-end and also in mobile 
 
 P.S: maybe you don't find much on my profile because I don't have any idea to make a public project yet :(
 ***
+[![wakatime](https://wakatime.com/badge/user/87e13a8a-9dbe-4330-9eb7-411484eb37dd.svg)](https://wakatime.com/@87e13a8a-9dbe-4330-9eb7-411484eb37dd)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide=javascript,glsl,astro,html,css&theme=tokyonight)
 ***
 ### Tech💻:
