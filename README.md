@@ -1,5 +1,5 @@
 ## Hellooo! <img src="https://media3.giphy.com/media/NQDcH2ZZaPV8QBDYK3/giphy.gif" width="20px">
-Hi, I'm Alfian. I am a developer, especially in the back-end and also in mobile applications. My experience in IT is about 5 years, and I am also a bug hunter. Currently I'm managing and developing [Prantara](https://play.google.com/store/apps/details?id=com.rekberapppilatek)😉.
+Hi, I'm Alfian. I am a developer, especially in the back-end and also in mobile applications. My experience in IT is about 5 years, and I am also a bug hunter. Currently I'm managing and developing [Prantara](https://play.google.com/store/apps/details?id=com.rekberapppilatek)😉 (Or click this [link](https://www.appbrain.com/app/prantara/com.rekberapppilatek)).
 
 P.S: maybe you don't find much on my profile because I don't have any idea to make a public project yet :(
 ***
